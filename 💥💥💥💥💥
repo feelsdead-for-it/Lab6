@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+int god,s,z;
+cin>>god;
+if (god % 100 > 0)
+{
+s=god/100 +1;
+cout<<s;
+    }
+    else
+    {
+z=god/100;
+cout<<z;
+}
+    
+   
+    }
