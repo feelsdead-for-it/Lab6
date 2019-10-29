@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+int k,n;
+cin >>k>>n;
+k= (n + k -1) % 7;
+cout<<k;
+
+}
