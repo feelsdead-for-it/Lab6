@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+int s,m,d;
+cin>>s;
+m= s / 60;
+d= s-m*60;
+cout <<d<< ends;
+
+}
